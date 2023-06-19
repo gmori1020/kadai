@@ -8,6 +8,8 @@ Webサイト制作
 + [課題3-2](kadai3_2.html)
 + [課題4-1](kadai04-1.html)
 + [課題4-2](kadai04-2.html)
++ [課題5-1](kadai05-1.html)
++ [課題5-2](kadai05-2.html)
 
 # SourceCode
 [Repository](https://github.com/gmori1020/kadai/)
