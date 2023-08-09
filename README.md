@@ -1,3 +1,5 @@
+# Moved to another repository.
+
 # kadai
 Webサイト制作
 
